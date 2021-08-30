@@ -52,7 +52,7 @@ def click(row,col):
 #Defining window
 root=Tk()
 #Setting title for window
-root.title("Ishaan Dubey:Tic-Tac-Toe Game")
+root.title("PlayerNo123:Tic-Tac-Toe Game")
 #setting width and height for game window
 root.geometry("800x490")
 #setting background color
